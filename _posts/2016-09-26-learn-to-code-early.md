@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Learn to Code Early"
 description:
 headline:

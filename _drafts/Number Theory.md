@@ -1,4 +1,4 @@
- ﻿#NUMBER THEORY-1
+﻿#NUMBER THEORY-1
 
 Lets talk about primes !! <br>
 *A Prime Number can be divided evenly only by 1, or itself. 
